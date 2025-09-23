@@ -73,3 +73,5 @@ SELECT release_year, COUNT(*) AS total_peliculas
 FROM film
 GROUP BY release_year
 ORDER BY release_year;
+
+-- PARAR EN EX11 -
